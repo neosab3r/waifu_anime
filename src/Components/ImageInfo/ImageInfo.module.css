@@ -1,0 +1,21 @@
+.container {
+    margin: 15px;
+    border-radius: 12px;
+    padding: 16px;
+    font-family: "Sofia Sans", sans-serif;
+}
+
+.header {
+    margin: 0;
+}
+
+.infoTitle {
+    margin: 4px;
+    /*color: rgb(89, 99, 110);*/
+}
+
+.infoText {
+   /* color: rgb(31, 35, 40);*/
+}
+
+

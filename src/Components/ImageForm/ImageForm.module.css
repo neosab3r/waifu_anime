@@ -1,0 +1,6 @@
+﻿.ImageForm {
+    width: 100%;
+    /*background: rgba(172, 172, 172, 0.23); !* Полупрозрачный белый *!*/
+    display: flex;
+    justify-content: center;
+}

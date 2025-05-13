@@ -1,0 +1,23 @@
+﻿.container {
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.imageContainer {
+    margin-right: 30px;
+    border-radius: 12px;
+    width: 700px;
+    float: left;
+    height: 800px;
+    display: flex;  /* Включаем flex-контейнер */
+    justify-content: center; /* Центрируем по горизонтали */
+    align-items: center; /* Центрируем по вертикали */
+}
+
+.infoContainer {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}

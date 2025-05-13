@@ -1,0 +1,21 @@
+﻿.linkPreviewContainer {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+}
+
+.linkPreviewBtn {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-family: inherit;
+}
+
+.linkPreview img {
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+}

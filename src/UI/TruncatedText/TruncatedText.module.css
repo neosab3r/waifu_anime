@@ -1,0 +1,7 @@
+﻿.truncatedText {
+    white-space: nowrap; /* Запрещает перенос строк */
+    overflow: hidden; /* Обрезает текст, выходящий за границы */
+    text-overflow: ellipsis; /* Добавляет "..." в конце */
+    max-width: 300px; /* Устанавливает максимальную ширину блока */
+    display: block; /* Убедись, что элемент блочный или inline-block */
+}

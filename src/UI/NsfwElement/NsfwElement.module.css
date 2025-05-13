@@ -1,0 +1,26 @@
+﻿.NsfwElement {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px; /* Закругленные углы */
+    border: 1px solid rgba(179, 179, 179, 0.34); /* Светлая граница */
+    font-family: "Sofia Sans", sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.NsfwText {
+    margin: 0;
+    text-align: center;
+}
+
+.NsfwTextSmall {
+    margin: 0;
+    text-align: center;
+    font-weight: normal;
+    font-size: 10px;
+}
+
